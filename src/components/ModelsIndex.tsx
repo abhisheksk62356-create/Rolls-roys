@@ -558,25 +558,28 @@ function List() {
           >
             <div
               data-unveil="up"
-              className="relative aspect-[4/5] w-full overflow-hidden [mask-image:linear-gradient(to_bottom,transparent,#000_14%,#000_56%,transparent)] md:aspect-[16/10] lg:col-span-8 lg:col-start-5 lg:row-start-1 lg:[mask-composite:intersect] lg:[mask-image:linear-gradient(to_right,transparent,#000_34%),linear-gradient(to_bottom,transparent,#000_14%,#000_70%,transparent)]"
+              className="relative aspect-[4/5] w-full overflow-hidden md:aspect-[16/10] lg:col-span-8 lg:col-start-5 lg:row-start-1"
             >
-              <div data-unveil-inner className="absolute inset-0">
-                <div
-                  style={vars({
-                    "--fx-p": art.phone[0],
-                    "--fy-p": art.phone[1],
-                    "--fx-w": art.wide[0],
-                    "--fy-w": art.wide[1],
-                    "--zoom": art.zoom ?? 1,
-                  })}
-                  className="absolute inset-0 origin-right [--fx:var(--fx-p)] [--fy:var(--fy-p)] md:[--fx:var(--fx-w)] md:[--fy:var(--fy-w)] md:[scale:var(--zoom)]"
-                >
-                  <Photo
-                    image={m.image}
-                    sizes={listSizes(m)}
-                    quality={75}
-                    style={art.tone ? { filter: `brightness(${art.tone})` } : undefined}
-                  />
+              {/* The soft edges live on their own layer, so the shutter opens without repainting the photograph every frame. */}
+              <div className="absolute inset-0 [transform:translateZ(0)] [mask-image:linear-gradient(to_bottom,transparent,#000_14%,#000_56%,transparent)] lg:[mask-composite:intersect] lg:[mask-image:linear-gradient(to_right,transparent,#000_34%),linear-gradient(to_bottom,transparent,#000_14%,#000_70%,transparent)]">
+                <div data-unveil-inner className="absolute inset-0">
+                  <div
+                    style={vars({
+                      "--fx-p": art.phone[0],
+                      "--fy-p": art.phone[1],
+                      "--fx-w": art.wide[0],
+                      "--fy-w": art.wide[1],
+                      "--zoom": art.zoom ?? 1,
+                    })}
+                    className="absolute inset-0 origin-right [--fx:var(--fx-p)] [--fy:var(--fy-p)] md:[--fx:var(--fx-w)] md:[--fy:var(--fy-w)] md:[scale:var(--zoom)]"
+                  >
+                    <Photo
+                      image={m.image}
+                      sizes={listSizes(m)}
+                      quality={75}
+                      style={art.tone ? { filter: `brightness(${art.tone})` } : undefined}
+                    />
+                  </div>
                 </div>
               </div>
             </div>

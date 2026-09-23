@@ -57,7 +57,8 @@ const SHOTS: Shot[] = [
   {
     image: B.mascot,
     caption: "On a base of woven carbon.",
-    sizes: "max(100vw, 150vh)",
+    // The frame lands at 1.06 and the reel pushes in a touch more: the hint carries that margin.
+    sizes: "max(113vw, 170vh)",
   },
   {
     // The figure stands right of centre with its wing close to the right edge,
@@ -98,7 +99,7 @@ const SHOTS: Shot[] = [
       focusWide: "70%",
       max: "50vw",
     },
-    sizes: "(orientation: portrait) 100vw, min(55vw, 102vh)",
+    sizes: "(orientation: portrait) 120vw, min(55vw, 102vh)",
   },
 ];
 

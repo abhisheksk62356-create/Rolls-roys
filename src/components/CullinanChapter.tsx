@@ -49,7 +49,8 @@ const STILLS: Still[] = [
   {
     image: shots.hero,
     aspect: "aspect-[3/4] sm:aspect-[4/3]",
-    sizes: "(min-width: 1024px) 116vw, (min-width: 640px) 126vw, 224vw",
+    // The opening frame also settles from 1.12 as the chapter arrives.
+    sizes: "(min-width: 1024px) 130vw, (min-width: 640px) 126vw, 224vw",
     // Low, on the soft verge in the foreground, clear of the bumper.
     place: "[[data-panorama]_&]:bottom-[max(3.75rem,8svh)]",
     grade: "h-[42%] from-obsidian/50 via-obsidian/15",
