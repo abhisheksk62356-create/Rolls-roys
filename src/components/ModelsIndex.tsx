@@ -226,6 +226,13 @@ export function ModelsIndex() {
           },
         };
 
+        // Fetch every car well before the room arrives (four screens ahead, while the film is still
+        // playing), so no photograph is downloading or decoding as the stage slides in.
+        const stageImages = Array.from(room.querySelectorAll<HTMLImageElement>("[data-picture] img"));
+        onReach(room, `top bottom+=${Math.round(window.innerHeight * 4)}`, () =>
+          stageImages.forEach((img) => (img.loading = "eager")),
+        );
+
         // Arrival: the stage surfaces from the dark as the room rises, then the index sets.
         const approach = { trigger: room, start: "top bottom", end: "top top", scrub: true } as const;
         gsap.fromTo(q("[data-stage-zoom]"), { scale: 1.12 }, { scale: 1, ease: "none", scrollTrigger: approach });
@@ -421,10 +428,12 @@ function Showroom({ hand }: { hand: RefObject<Hand | null> }) {
                     height: `${Math.round(scale * 100)}%`,
                   }}
                 >
+                  {/* Its own layer: the wipe then redraws only its mask, never the photograph beneath it. */}
                   <Photo
                     image={m.image}
                     sizes={`max(${Math.ceil(64 * scale)}vw, ${Math.ceil(ratio(m.image) * 100 * scale)}vh)`}
                     quality={85}
+                    className="[transform:translateZ(0)]"
                     style={{ ...footStyle(scale), filter: art.tone ? `brightness(${art.tone})` : undefined }}
                   />
                 </div>
