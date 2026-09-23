@@ -1,0 +1,389 @@
+[
+ {
+  "slot": "phantom/hero",
+  "role": "hero",
+  "id": "B0tsLz-y0Xg",
+  "raw": "1659644604418-4ce52370c549",
+  "credit": "Jordy Muñoz"
+ },
+ {
+  "slot": "phantom/front",
+  "role": "feature",
+  "id": "APdvxx6EI30",
+  "raw": "1776639520963-ba8b7475e9de",
+  "credit": "Terry Cohen"
+ },
+ {
+  "slot": "phantom/night",
+  "role": "feature",
+  "id": "kT_ZacaYTFI",
+  "raw": "1774759617565-10cfb245b7ef",
+  "credit": "Franco Debartolo"
+ },
+ {
+  "slot": "phantom/grille",
+  "role": "hero",
+  "id": "auTnW6sWAwQ",
+  "raw": "1656683371577-7b6fed8226b1",
+  "credit": "avechenri"
+ },
+ {
+  "slot": "phantom/interior",
+  "role": "hero",
+  "id": "llS7tgo1bnE",
+  "raw": "1741087306925-5683c1f7921c",
+  "credit": "Haberdoedas"
+ },
+ {
+  "slot": "phantom/mascot",
+  "role": "feature",
+  "id": "oJulr_JOss0",
+  "raw": "1712015482685-1a1f015cd16f",
+  "credit": "Rhen Davis"
+ },
+ {
+  "slot": "ghost/dark",
+  "role": "hero",
+  "id": "ZaxHKjuHNaY",
+  "raw": "1647200527885-f017c04c502b",
+  "credit": "Akram Huseyn"
+ },
+ {
+  "slot": "ghost/front",
+  "role": "hero",
+  "id": "cqA78sqJd-I",
+  "raw": "1671572123703-9ba651605729",
+  "credit": "Florian Berger"
+ },
+ {
+  "slot": "ghost/side",
+  "role": "hero",
+  "id": "Js87eMP1R0c",
+  "raw": "1647200528173-8ba041352ff2",
+  "credit": "Akram Huseyn"
+ },
+ {
+  "slot": "ghost/door",
+  "role": "feature",
+  "id": "aqJyfeKsUl4",
+  "raw": "1728416837405-1ac976badb23",
+  "credit": "Nejc Soklič"
+ },
+ {
+  "slot": "ghost/fascia",
+  "role": "feature",
+  "id": "TqivDCS4-OQ",
+  "raw": "1690141190975-224f98cd8bc2",
+  "credit": "Imad 786"
+ },
+ {
+  "slot": "ghost/console",
+  "role": "feature",
+  "id": "ak4Vk4i7kOE",
+  "raw": "1697633285272-4283c1157ddc",
+  "credit": "Samuel Arkwright"
+ },
+ {
+  "slot": "ghost/clock",
+  "role": "hero",
+  "id": "cCBtOSpW94I",
+  "raw": "1710077601732-0e3534cd3f6e",
+  "credit": "The Now Time"
+ },
+ {
+  "slot": "ghost/controller",
+  "role": "feature",
+  "id": "OHJ8pt5F3Bw",
+  "raw": "1718564457594-4e123d2f2b8a",
+  "credit": "Nejc Soklič"
+ },
+ {
+  "slot": "ghost/final",
+  "role": "hero",
+  "id": "8jmbYiI7qa8",
+  "raw": "1647200527435-cc6b0e91e120",
+  "credit": "Akram Huseyn"
+ },
+ {
+  "slot": "ghost/final-portrait",
+  "role": "feature",
+  "id": "db5us5jET8k",
+  "raw": "1647200528165-12fc669c247e",
+  "credit": "Akram Huseyn"
+ },
+ {
+  "slot": "cullinan/hero",
+  "role": "hero",
+  "id": "IPKZ-0pWHBA",
+  "raw": "1728458602333-c0fdc3ece8a5",
+  "credit": "Johnathan Mark"
+ },
+ {
+  "slot": "cullinan/profile",
+  "role": "hero",
+  "id": "Rqx7P29amno",
+  "raw": "1728458602463-294dd50623e2",
+  "credit": "Johnathan Mark"
+ },
+ {
+  "slot": "cullinan/rear",
+  "role": "hero",
+  "id": "qazqf9Qi3K4",
+  "raw": "1728458602376-9d81cf92503c",
+  "credit": "Johnathan Mark"
+ },
+ {
+  "slot": "cullinan/doors",
+  "role": "feature",
+  "id": "jKML6S9RgOk",
+  "raw": "1646146084636-c679287fb5ce",
+  "credit": "纯一 戚"
+ },
+ {
+  "slot": "cullinan/studio",
+  "role": "feature",
+  "id": "LG9pzL5LgdA",
+  "raw": "1695334702343-877903386dc5",
+  "credit": "untldshots"
+ },
+ {
+  "slot": "spectre/hero",
+  "role": "hero",
+  "id": "7eanf8kRpJI",
+  "raw": "1710687084307-9a2b55b2b690",
+  "credit": "Martin Katler"
+ },
+ {
+  "slot": "spectre/wheel",
+  "role": "hero",
+  "id": "w29txRKo87U",
+  "raw": "1759508207535-4acf792870bc",
+  "credit": "ubeyonroad"
+ },
+ {
+  "slot": "ghost/headlight",
+  "role": "hero",
+  "id": "q0AnrZEhLno",
+  "raw": "1657549952432-d7a3c49e3e30",
+  "credit": "avechenri"
+ },
+ {
+  "slot": "black-badge/lamp",
+  "role": "hero",
+  "id": "vliPkIPmmKU",
+  "raw": "1760413451697-072786ce5e5b",
+  "credit": "Shooting Tyre"
+ },
+ {
+  "slot": "black-badge/hero",
+  "role": "hero",
+  "id": "hgulZLbUjL4",
+  "raw": "1647200527478-bf501db5def5",
+  "credit": "Akram Huseyn"
+ },
+ {
+  "slot": "black-badge/mascot",
+  "role": "hero",
+  "id": "GLeiwE1feCk",
+  "raw": "1760413451810-67f28ba094a0",
+  "credit": "Shooting Tyre"
+ },
+ {
+  "slot": "black-badge/mascot-dark",
+  "role": "feature",
+  "id": "X9nsTANgCg8",
+  "raw": "1679778974194-615cf385c8aa",
+  "credit": "Dmitriy Sidorov"
+ },
+ {
+  "slot": "black-badge/bokeh",
+  "role": "feature",
+  "id": "kKpJxSsg6LQ",
+  "raw": "1725184729630-c61439bf56b2",
+  "credit": "Mathew Antony"
+ },
+ {
+  "slot": "craft/grille",
+  "role": "feature",
+  "id": "uQldA0ndYvs",
+  "raw": "1749996178253-9adc1b800bd4",
+  "credit": "Artur Ament"
+ },
+ {
+  "slot": "craft/spirit-of-ecstasy",
+  "role": "hero",
+  "id": "hETV-LK1SMs",
+  "raw": "1770316937082-85fa4afc41f9",
+  "credit": "Anshul Gurjar"
+ },
+ {
+  "slot": "craft/spirit-gold",
+  "role": "feature",
+  "id": "EqHS9gHYdd4",
+  "raw": "1656861593651-f2a2002dcce6",
+  "credit": "Leon Kohle"
+ },
+ {
+  "slot": "craft/wood",
+  "role": "feature",
+  "id": "FaK6HqM0Q5o",
+  "raw": "1731199241790-d2ddb2597e6c",
+  "credit": "Gabriela Testa"
+ },
+ {
+  "slot": "craft/leather",
+  "role": "feature",
+  "id": "rJeJljGwHOY",
+  "raw": "1564842505181-8862a3b9b173",
+  "credit": "James Lee"
+ },
+ {
+  "slot": "craft/stitching",
+  "role": "feature",
+  "id": "boWp4rJkcBI",
+  "raw": "1789573271984-77c207efe7a0",
+  "credit": "Tymek Niciak"
+ },
+ {
+  "slot": "craft/wheel",
+  "role": "feature",
+  "id": "-AO3myS006E",
+  "raw": "1728415936033-37846aeb302b",
+  "credit": "Nejc Soklič"
+ },
+ {
+  "slot": "craft/badge",
+  "role": "feature",
+  "id": "ucCUzEpNzDk",
+  "raw": "1583268108188-a21e48eace09",
+  "credit": "Amit Lahav"
+ },
+ {
+  "slot": "heritage/radiator",
+  "role": "hero",
+  "id": "g8A5zx54cMM",
+  "raw": "1770316936799-799be3dd7a3a",
+  "credit": "Anshul Gurjar"
+ },
+ {
+  "slot": "heritage/chrome",
+  "role": "hero",
+  "id": "0RSv3nY2BWc",
+  "raw": "1786294542078-56635df86ed7",
+  "credit": "Niklas König"
+ },
+ {
+  "slot": "heritage/prewar",
+  "role": "feature",
+  "id": "X1fUZ-dhPJU",
+  "raw": "1652233592961-41c4e8b7ba22",
+  "credit": "昭 姜"
+ },
+ {
+  "slot": "heritage/silver-cloud",
+  "role": "hero",
+  "id": "VuSTbD4YCnw",
+  "raw": "1730711565015-1a613844bc7f",
+  "credit": "Panos Tsilivis",
+  "retouched": "registration plate blanked"
+ },
+ {
+  "slot": "heritage/hall",
+  "role": "hero",
+  "id": "tyB2tyPXNW4",
+  "raw": "1540262579873-36ce22a690e6",
+  "credit": "Pierre Gui"
+ },
+ {
+  "slot": "heritage/wraith",
+  "role": "hero",
+  "id": "Ecm5Zw2Lz9k",
+  "raw": "1627403677225-1e13c9db107e",
+  "credit": "Louis Droege",
+  "retouched": "registration plate blanked"
+ },
+ {
+  "slot": "heritage/dawn",
+  "role": "hero",
+  "id": "QeepJg4ZtbI",
+  "raw": "1603241326883-43c617963f90",
+  "credit": "Brian Lundquist"
+ },
+ {
+  "slot": "heritage/dawn-motion",
+  "role": "feature",
+  "id": "67IV6TKC9sI",
+  "raw": "1629472919774-49ce6f36e9ed",
+  "credit": "Reet Talreja"
+ },
+ {
+  "slot": "heritage/cabin",
+  "role": "feature",
+  "id": "EJDU3WSWqFM",
+  "raw": "1691157415383-9e85455a0f9e",
+  "credit": "Patrick Konior"
+ },
+ {
+  "slot": "gallery/01",
+  "role": "hero",
+  "id": "lLOJ_DA54h0",
+  "raw": "1647200528605-6cfc312a4947",
+  "credit": "Akram Huseyn"
+ },
+ {
+  "slot": "gallery/02",
+  "role": "hero",
+  "id": "aAxqqljgLts",
+  "raw": "1651915216644-873cbf67863b",
+  "credit": "Tjeerd Braat"
+ },
+ {
+  "slot": "gallery/03",
+  "role": "feature",
+  "id": "K7qXLG-kLro",
+  "raw": "1712595172402-5049d74d23db",
+  "credit": "Rhen Davis"
+ },
+ {
+  "slot": "gallery/04",
+  "role": "hero",
+  "id": "NnJDWYuas4Q",
+  "raw": "1783704051835-96b9a5f86037",
+  "credit": "Jonathan Ikemura"
+ },
+ {
+  "slot": "gallery/05",
+  "role": "feature",
+  "id": "L6WtebmR7YU",
+  "raw": "1722545276336-d6cf3065f427",
+  "credit": "Heber Davis"
+ },
+ {
+  "slot": "gallery/06",
+  "role": "hero",
+  "id": "fZyTIit4pGU",
+  "raw": "1577380793288-48014abf4d3a",
+  "credit": "Lucas Law"
+ },
+ {
+  "slot": "gallery/07",
+  "role": "feature",
+  "id": "IYUgCC3Ci-o",
+  "raw": "1695334694491-7ac05d362fd9",
+  "credit": "untldshots"
+ },
+ {
+  "slot": "gallery/08",
+  "role": "feature",
+  "id": "2wwj3Djq4d0",
+  "raw": "1780645333421-3e4cbbd56650",
+  "credit": "atelierbyvineeth ..."
+ },
+ {
+  "slot": "finale/hero",
+  "role": "hero",
+  "id": "jbCw05X6JAs",
+  "raw": "1647200527826-e9395f4683ea",
+  "credit": "Akram Huseyn"
+ }
+]

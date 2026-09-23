@@ -1,0 +1,442 @@
+{
+  "/assets/rolls-royce/black-badge/bokeh.webp": {
+    "width": 3064,
+    "height": 5456,
+    "role": "feature",
+    "kb": 248,
+    "sharpness": 51,
+    "blur": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAACwAQCdASoJABAAAsBMJZwAAupdU2GAAP75+W4Qwz+iIp4QM3HAOvRIu77glk2LGLSVXbz3qQxk+Il+ERs3f+V6epz7pDigAAA="
+  },
+  "/assets/rolls-royce/black-badge/hero.webp": {
+    "width": 3840,
+    "height": 5760,
+    "role": "hero",
+    "kb": 638,
+    "sharpness": 725,
+    "blur": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQAgCdASoLABAAAsBMJaQAAuduMwHWzkQAAP75Uz5xp6EM2c6W+qPWtBKJuyTHTftbH+EIoLFbzxQVkqy7wdptZyzfQ+urBplP3pgZw6lrrhhAAAA="
+  },
+  "/assets/rolls-royce/black-badge/lamp.webp": {
+    "width": 3840,
+    "height": 2563,
+    "role": "hero",
+    "kb": 150,
+    "sharpness": 118,
+    "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADQAQCdASoQAAsAAsBMJZwAAubQ74j8CAD+7vP5iSlQ0nn9Tnf4p3rNYs+gzdll+ziSKkaausJc6YUNNUTQuZmhvPiCBIcs4w89hAAA"
+  },
+  "/assets/rolls-royce/black-badge/mascot.webp": {
+    "width": 3840,
+    "height": 2563,
+    "role": "hero",
+    "kb": 142,
+    "sharpness": 124,
+    "blur": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoQAAsAAsBMJZwCsADhhbZhscAA/uoAKXxT173l75AMQuuNGyFYg6y1qr/JN0PyP0tDBHgJgAJIdo6Mtoi3zAAA"
+  },
+  "/assets/rolls-royce/black-badge/mascot-dark.webp": {
+    "width": 2914,
+    "height": 5180,
+    "role": "feature",
+    "kb": 958,
+    "sharpness": 171,
+    "blur": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoJABAAAsBMJZQAAupb54hxPDAAzKPidmrY6B8omQR7MjLB2OhR1zJoxSSTuljP6QnOyK4qtYgz6NOOPkKC71jI4ugAAA=="
+  },
+  "/assets/rolls-royce/craft/badge.webp": {
+    "width": 3840,
+    "height": 2560,
+    "role": "feature",
+    "kb": 273,
+    "sharpness": 1290,
+    "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoQAAsAAsBMJYwCdAD2Nu/n1wAA/sBuDnx+RQxl89OAN3/OvX8zKNRdbMWdBfZQlVcIHm9/lqbjyIpH/3kVv0RqR8zrpQAA"
+  },
+  "/assets/rolls-royce/craft/grille.webp": {
+    "width": 3840,
+    "height": 3772,
+    "role": "feature",
+    "kb": 340,
+    "sharpness": 491,
+    "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAABQAgCdASoQABAAAsBMJYwCdAYsPwIe95imVAAA/vdIplXM1azDd72EbFLDLvvUNJwwsuNh57S7QGs7wbE42cTl3JLMvJmG5bC5uS5xslHm2IUy52Y/TIAA"
+  },
+  "/assets/rolls-royce/craft/leather.webp": {
+    "width": 3840,
+    "height": 2569,
+    "role": "feature",
+    "kb": 928,
+    "sharpness": 177,
+    "blur": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAAAwAgCdASoQAAsAAsBMJZACdLoAAkP6JI3YgADNwcPZcE+prtiqXSC2YaKfwLpUPdV5r4gZN5GQnZgAAAA="
+  },
+  "/assets/rolls-royce/craft/spirit-gold.webp": {
+    "width": 3323,
+    "height": 5331,
+    "role": "feature",
+    "kb": 1321,
+    "sharpness": 320,
+    "blur": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoKABAAAsBMJQBOgCHh16YIAAD++cdl+PFx/b68fAldUrwMEcZMdrIAAAA="
+  },
+  "/assets/rolls-royce/craft/spirit-of-ecstasy.webp": {
+    "width": 3840,
+    "height": 2560,
+    "role": "hero",
+    "kb": 494,
+    "sharpness": 407,
+    "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAABQAgCdASoQAAsAAsBMJZQAD4oxfXITrQZX1AAA/vn3tw4lmxncBnCaU6FaQ6+y1mZKHhw+1BaxbOLLKAwbxFxLKqA+x0nplQPjnNAA"
+  },
+  "/assets/rolls-royce/craft/stitching.webp": {
+    "width": 3840,
+    "height": 5760,
+    "role": "feature",
+    "kb": 469,
+    "sharpness": 142,
+    "blur": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAACwAQCdASoLABAAAsBMJaQAAubqL3FAAP75UqK9UnVae6XebkeYbgYZ83gAAA=="
+  },
+  "/assets/rolls-royce/craft/wheel.webp": {
+    "width": 2832,
+    "height": 4240,
+    "role": "feature",
+    "kb": 1065,
+    "sharpness": 932,
+    "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoLABAAAsBMJQBOgCBUuAhwz3gAAP73j0IWJ99UG103VbmUe6nq5TmiZAjf+D8AqnjYHYV1ocp/tGMh0D5zH5/oIM6IlxVlaoiw+gKOe7vV/w0RqWm+r72stc/IfYQ7EyA3lbAA"
+  },
+  "/assets/rolls-royce/craft/wood.webp": {
+    "width": 2624,
+    "height": 3936,
+    "role": "feature",
+    "kb": 1386,
+    "sharpness": 220,
+    "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoLABAAAsBMJbACdADcHhGCdt0AAP76bxSo/mJDyT6AXYTm3XNNc9A7M1G1gO7UOMKrpBVutm4vDVcOexnEgqbusbOkVNvmnHjryeGyurzhK9wbY4SM8OjYAJIAAA=="
+  },
+  "/assets/rolls-royce/cullinan/doors.webp": {
+    "width": 3657,
+    "height": 5485,
+    "role": "feature",
+    "kb": 705,
+    "sharpness": 460,
+    "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoLABAAAsBMJZwC7ADcStEHUSQAAP7oqmm2O5BdzbncujhOGu0DVUvKqv8/il+gCP9XHfENVWqyk7n12aGKYAWLZhXctLBZ9lEPeTYL79fkh3+h04lM1jtNXQ5IAA=="
+  },
+  "/assets/rolls-royce/cullinan/hero.webp": {
+    "width": 3840,
+    "height": 2561,
+    "role": "hero",
+    "kb": 438,
+    "sharpness": 227,
+    "blur": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoQAAsAAsBMJbAAAxZb3PpNgAD+63YN35sd2OIguer6sdlvL3gh7SaKw/kop+CQbOfN9rhEBq8b5S/uwAA="
+  },
+  "/assets/rolls-royce/cullinan/profile.webp": {
+    "width": 3840,
+    "height": 2561,
+    "role": "hero",
+    "kb": 837,
+    "sharpness": 675,
+    "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAACwAQCdASoQAAsAAsBMJYgCdAEOzQcAAPhZOKn1tvgbDEuxfFIyPRNU77vfqZfmAaPuKqM/l04oy/WumkrEaJgGvAWaJitNlu1r+DRfW6ANEkWEkAqed71f1AAAAA=="
+  },
+  "/assets/rolls-royce/cullinan/rear.webp": {
+    "width": 3840,
+    "height": 2561,
+    "role": "hero",
+    "kb": 490,
+    "sharpness": 262,
+    "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAwAgCdASoQAAsAAsBMJZACdAD0p3bePaiRoAD+mAmxUEGM3V1LD6STSOwC+u8qyhhFEAJ0SFP/16l7T1Ywi/5Ksb2DMX2prN417rsrRBAKLS/bvKiwAAAA"
+  },
+  "/assets/rolls-royce/cullinan/studio.webp": {
+    "width": 3840,
+    "height": 4800,
+    "role": "feature",
+    "kb": 2297,
+    "sharpness": 1242,
+    "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAQCdASoNABAAAsBMJZwAD5Duy9ZRYgAA/O5d0UuUDb202NGRzqrw1On2cwn3fvaOKqfEI7pQCXNQrLeNxq7kO/5CatiE4GUJHdccbwi31MsbdqH+DfxfB6JcgrrjBI7yfAAA"
+  },
+  "/assets/rolls-royce/finale/hero.webp": {
+    "width": 3840,
+    "height": 2560,
+    "role": "hero",
+    "kb": 656,
+    "sharpness": 954,
+    "blur": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoQAAsAAsBMJaQAAv22z04VvAAA/viie+32mQkeP50HpS0PReextha3u/IiOuVmDwzDiODXwyr27M+s6mGWrvzmJF/aWNBcRiwWAsAA"
+  },
+  "/assets/rolls-royce/gallery/01.webp": {
+    "width": 3840,
+    "height": 2560,
+    "role": "hero",
+    "kb": 1846,
+    "sharpness": 536,
+    "blur": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoQAAsAAsBMJaQAAi+aNy5D3AAA/oVztwT2sGfSqfgihLQudKm4LK2nmlacD4S2NEHhq/W/WLpIUXkBuG+A9pkwENttjNAPiyAAAA=="
+  },
+  "/assets/rolls-royce/gallery/02.webp": {
+    "width": 3840,
+    "height": 2560,
+    "role": "hero",
+    "kb": 225,
+    "sharpness": 168,
+    "blur": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAACwAQCdASoQAAsAAsBMJQAAXNb55KAAAP4ZqKDJKMq0Eo+28Cc5A5pHvGPYm9Hg8bA95KVjBdbXKx0P2a4wutKU/JAofCFXgAA="
+  },
+  "/assets/rolls-royce/gallery/03.webp": {
+    "width": 3840,
+    "height": 5760,
+    "role": "feature",
+    "kb": 1859,
+    "sharpness": 422,
+    "blur": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAAAQAgCdASoLABAAAsBMJZQCdAEVvPJrdOY8AP7zVpToj9m/6P2ef7BbtzjMzrcGmB5k1rPvLTPaazr9jrClR5McsoAAAA=="
+  },
+  "/assets/rolls-royce/gallery/04.webp": {
+    "width": 3840,
+    "height": 2560,
+    "role": "hero",
+    "kb": 803,
+    "sharpness": 501,
+    "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAQAgCdASoQAAsAAsBMJbACdAEZgLv1B8YAAP714K1DNk6p07XT94B1rOmlkc4wbZkWCdqfWksqdVbsqJ8izaajItY6ZO5wcKJ7ROK931JPSBMoeY/lKTC7WcXY9w2zYMea6ZUphaQAAA=="
+  },
+  "/assets/rolls-royce/gallery/05.webp": {
+    "width": 3840,
+    "height": 4800,
+    "role": "feature",
+    "kb": 2454,
+    "sharpness": 5195,
+    "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADQAQCdASoNABAAAsBMJaQAD46xOEmBgAD+9KDL4N2LyV2aZRn+P/a9fM4EXAyqSbI45Fe3lYiAiz4AbXBqwwc52pkfGcA1AwiPNFuuOPtcOaIsrCdlZbUY0hMBwXQldeU75n+E+D6Yv1GU4AA="
+  },
+  "/assets/rolls-royce/gallery/06.webp": {
+    "width": 3840,
+    "height": 2226,
+    "role": "hero",
+    "kb": 1293,
+    "sharpness": 192,
+    "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoQAAkAAsBMJYwCdAYsPgKeBzcsAP7mUO84rhnNvLT5C1nTzzZZ7fd8R3DDzr14YOoIxxMZLR+vSXwQGaBsXOf5hI4MJ1Q7DmAf6vv+hMV6F3uG4s8WckxXwnhR7KgA"
+  },
+  "/assets/rolls-royce/gallery/07.webp": {
+    "width": 3290,
+    "height": 4112,
+    "role": "feature",
+    "kb": 2615,
+    "sharpness": 500,
+    "blur": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoNABAAAsBMJZQAAudiKFgOxAD++2uG2LCabfwNiPRPXl2JUwqJmPwi6XpJHB/4fsBv1QkQAAA="
+  },
+  "/assets/rolls-royce/gallery/08.webp": {
+    "width": 3665,
+    "height": 5497,
+    "role": "feature",
+    "kb": 721,
+    "sharpness": 416,
+    "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADQAQCdASoLABAAAsBMJaQAAu0csnGQAAD++f2qQ5wsQf6lxEo7OJnXrOp7c058V3xejx2fGsmh/cL39xYXht7yZStu3la/QtU5QAAA"
+  },
+  "/assets/rolls-royce/ghost/clock.webp": {
+    "width": 3840,
+    "height": 2564,
+    "role": "hero",
+    "kb": 331,
+    "sharpness": 298,
+    "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoQAAsAAsBMJaQAAv1QhJthQwAAAP7nr/2L50Cj5V7aSnJKcX+zc7qgdZpVBaAFdCyWLXFViac3Ua2Gk5Q8SZ7uf51fxc7qn86UFZgCXfntFkrNYc1siXCaqI8klAAA"
+  },
+  "/assets/rolls-royce/ghost/console.webp": {
+    "width": 3840,
+    "height": 5757,
+    "role": "feature",
+    "kb": 657,
+    "sharpness": 839,
+    "blur": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoLABAAAsBMJZwAAujdRv18u8QA/vqNwKCFhH/4FQ5lrXNWVwPuzCY9KSK7ULk0bIwFdvvnbEhU3KhSW3oyUpOjon7oRmPNvz+5eAAA"
+  },
+  "/assets/rolls-royce/ghost/controller.webp": {
+    "width": 3840,
+    "height": 2565,
+    "role": "feature",
+    "kb": 689,
+    "sharpness": 407,
+    "blur": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAACQAgCdASoQAAsAAsBMJQBOhggBEFGKxPPfPwjZaAD6naRBg3BJc7miFg0hfy94rwGE8NIDzHk2Qna71zO6ChCLtNGc9wTdqm10RWNZN4CmKsF6D1p249HqjJV92GpXDAMI8LEAGIb5kHh6ckiHfGyrfgF2fCF7rziBwN+o0ZkAAA=="
+  },
+  "/assets/rolls-royce/ghost/dark.webp": {
+    "width": 3840,
+    "height": 2560,
+    "role": "hero",
+    "kb": 270,
+    "sharpness": 627,
+    "blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAACwAQCdASoQAAsAAsBMJaQAAiGQZjTAAP7vqQlgATetse1mco7A/ygj42IcuzOWh3OGN7bMIssxKFBeSJKK2rRDkLG+AP3684I0yQCiFOJdJX+ZVfnMDEAAAAA="
+  },
+  "/assets/rolls-royce/ghost/door.webp": {
+    "width": 2832,
+    "height": 4240,
+    "role": "feature",
+    "kb": 993,
+    "sharpness": 332,
+    "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQAgCdASoLABAAAsBMJZwAAvact3MGL9EAAP74kbQCAyromrwZrDcI+0VTYvfbxWqxeAPM6SlObFJOivOIxjx77MT+8K6lE/uZAAAA"
+  },
+  "/assets/rolls-royce/ghost/fascia.webp": {
+    "width": 3702,
+    "height": 4628,
+    "role": "feature",
+    "kb": 430,
+    "sharpness": 280,
+    "blur": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADwAQCdASoNABAAAsBMJZwAAup2OIZHPQAA/vncGPFupsy0A+Ff9914rGGs7gfrum9jqsAA"
+  },
+  "/assets/rolls-royce/ghost/final.webp": {
+    "width": 3840,
+    "height": 2560,
+    "role": "hero",
+    "kb": 448,
+    "sharpness": 1126,
+    "blur": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoQAAsAAsBMJaQAAlu1A3UAAAD++m0TTcJ11yd47ACmcu/8TG/xooXC+x1tnFCMc+OTw7ruS/WcarA6pLjRAAAA"
+  },
+  "/assets/rolls-royce/ghost/final-portrait.webp": {
+    "width": 3840,
+    "height": 5760,
+    "role": "feature",
+    "kb": 1382,
+    "sharpness": 341,
+    "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwAgCdASoLABAAAsBMJaQAD5Jwbq/9Ghdp4AD+8ur4LeOR1s+gIqNo1elYMYCtBP8/h76Cj/AdDVNXz870wdOAM3ElgmhqwRz0uzXrKyOVvUKLwwl8JkB0b645oeY1IgaywAAA"
+  },
+  "/assets/rolls-royce/ghost/front.webp": {
+    "width": 3840,
+    "height": 2560,
+    "role": "hero",
+    "kb": 338,
+    "sharpness": 958,
+    "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQAgCdASoQAAsAAsBMJZQAAugxWtXDlKAAAN5npqHfpGN8IE8cLRCGaBHbKj28QHzLoZTYeGuI0j4DErC+ZWLWG/+XCJrQb/0/oj8mTO+U+bw3z8VsAAAA"
+  },
+  "/assets/rolls-royce/ghost/headlight.webp": {
+    "width": 3840,
+    "height": 2560,
+    "role": "hero",
+    "kb": 226,
+    "sharpness": 237,
+    "blur": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoQAAsAAsBMJZwC7AEO5BaIAAD++uspS5y2PZ/wgEnlo47Z5OKsGYKXOLrdTOYGXmhns2BPMiE+5Zqo+0AAAA=="
+  },
+  "/assets/rolls-royce/ghost/side.webp": {
+    "width": 3840,
+    "height": 2560,
+    "role": "hero",
+    "kb": 605,
+    "sharpness": 1077,
+    "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAACwAQCdASoQAAsAAsBMJaQAAizLQ3zgAPax2k8emAlafb43B6vkOZut/zm5i9xXofR9ZayM6kEEzEgE0e4shshkZDcRCgy6RsDYHQi5OtAPK/xvaU24cAAA"
+  },
+  "/assets/rolls-royce/heritage/cabin.webp": {
+    "width": 3840,
+    "height": 2560,
+    "role": "feature",
+    "kb": 1913,
+    "sharpness": 151,
+    "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoQAAsAAsBMJQBOgCFfJHgfOHQAAP1SBbE/F3rCr9e5AjiZ5HFjs/5dTFvNhz2bNUU9yh2a2hMZKG+OHFD6gMjsqqC7y4tvRcEH9FmM+upqkMaOjMzMurR/LWg0DzgA"
+  },
+  "/assets/rolls-royce/heritage/chrome.webp": {
+    "width": 3840,
+    "height": 2560,
+    "role": "hero",
+    "kb": 1016,
+    "sharpness": 492,
+    "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwAgCdASoQAAsAAsBMJaQAD49xect4gevxYAD+9rRHqf+B5+phDXqsqYDrtn5/sWJyUtO97rCpW4FGA2W6T9U0svshDrwnULCuvj1aNT4j37stemlODhiBU2SuoAAA"
+  },
+  "/assets/rolls-royce/heritage/dawn.webp": {
+    "width": 3840,
+    "height": 2560,
+    "role": "hero",
+    "kb": 1491,
+    "sharpness": 368,
+    "blur": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAAAQAgCdASoQAAsAAsBMJQBdgCHw+2LOtv8MAP7675+scueFwRZdparEF8jO8j29WoJhQ73951GZMHe79ux/JDFw3AAAAA=="
+  },
+  "/assets/rolls-royce/heritage/dawn-motion.webp": {
+    "width": 3790,
+    "height": 2406,
+    "role": "feature",
+    "kb": 464,
+    "sharpness": 113,
+    "blur": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACwAQCdASoQAAoAAsBMJZwAAuZc+sQAAP5V/g5XchTioFjGQI+8jP+KTy5tJBdOd1BIpM+LVIfJBAgA"
+  },
+  "/assets/rolls-royce/heritage/hall.webp": {
+    "width": 3840,
+    "height": 2160,
+    "role": "hero",
+    "kb": 487,
+    "sharpness": 488,
+    "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoQAAkAAsBMJQBOgMVu3YMRcOAAAP7178DLXdgzVPn7Ru9ugYHsmL2J1J8gJdSl3JYvaILuIFDr5nkScjul4Pw/OXBu0kvvcCPJhI2wtfA7+RpsU2QvkAAA"
+  },
+  "/assets/rolls-royce/heritage/prewar.webp": {
+    "width": 3840,
+    "height": 2880,
+    "role": "feature",
+    "kb": 753,
+    "sharpness": 863,
+    "blur": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAABwAgCdASoQAAwAAsBMJYwAFEB7ioupXHc2U3zQAP7xQipiIU9gykTc22bde4bZd1I8harHPyzUdz2w79yA6ALsNW7Q7yY6pUmDnOyOTnXTUk9Di+UEm3ZcXCPbln3wRnZVu/yCfW9a55IlLTi9o9+/AAA="
+  },
+  "/assets/rolls-royce/heritage/radiator.webp": {
+    "width": 3840,
+    "height": 2560,
+    "role": "hero",
+    "kb": 311,
+    "sharpness": 364,
+    "blur": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoQAAsAAsBMJZwAAuPtRQtKKAAA/vrq5SGVCrjeBeGecE08Q7ZthjgLlaZ44ss1LY3XZyT5Xe8NcTsjzDPdk88tTigqKjeFiscrwIAA"
+  },
+  "/assets/rolls-royce/heritage/silver-cloud.webp": {
+    "width": 3840,
+    "height": 2560,
+    "role": "hero",
+    "kb": 253,
+    "sharpness": 355,
+    "blur": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoQAAsAAsBMJaQAAug09mXuJsgA/vkXLVxL+0URO8+xsc6zvgtND8l/oHYkv4yU57+g2mjgowsThOfumYfcwzvuSsKgAA=="
+  },
+  "/assets/rolls-royce/heritage/wraith.webp": {
+    "width": 3840,
+    "height": 2560,
+    "role": "hero",
+    "kb": 324,
+    "sharpness": 507,
+    "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoQAAsAAsBMJZwAD5Drxho+7caAAP7zYGQ86CbH30dvilALY1zPYV6sfbYIISR/C2nU+vAuvjnap/kktd8ghB651gLJW0P5F3spCHyQJMQU1ELN+Wpkd4uAAAA="
+  },
+  "/assets/rolls-royce/phantom/front.webp": {
+    "width": 2944,
+    "height": 4416,
+    "role": "feature",
+    "kb": 443,
+    "sharpness": 385,
+    "blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwAgCdASoLABAAAsBMJYwCw7Yt9a6ZD1efCAD+67kYOgDuOyewUxmTgRR58WCZ9vMim5uqbjpjVEfkuaTHGsSyW0ljBnuGH791+UVxGZIc0B3dhukWDUhAAAA="
+  },
+  "/assets/rolls-royce/phantom/grille.webp": {
+    "width": 3840,
+    "height": 2560,
+    "role": "hero",
+    "kb": 474,
+    "sharpness": 457,
+    "blur": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoQAAsAAsBMJZwAD4AQb8xIAAD++l3Tx7mockzarB+qmGUF+D9pmMVb+bu5sETuAAA="
+  },
+  "/assets/rolls-royce/phantom/hero.webp": {
+    "width": 3840,
+    "height": 2160,
+    "role": "hero",
+    "kb": 909,
+    "sharpness": 998,
+    "blur": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAACwAQCdASoQAAkAAsBMJQAAXWUHxTZoAP7tI17acrDJ8yi65RNgzJgMNhOubf7s5mxPZ1XvWNm+IdozjdwAPlBjaIXpRSQtSm6488cuD4/FeH7AAAA="
+  },
+  "/assets/rolls-royce/phantom/interior.webp": {
+    "width": 3840,
+    "height": 2880,
+    "role": "hero",
+    "kb": 699,
+    "sharpness": 45,
+    "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQAgCdASoQAAwAAsBMJQBdgCP3m3SNPAIAAP7pX/NK0+HsJeMbBso/j7ja7ynFyGDuiHtZDNUY4i/tr3plFjm0mfcsYP1vrmXLRP/lshsIzufeRAv89gAA"
+  },
+  "/assets/rolls-royce/phantom/mascot.webp": {
+    "width": 3840,
+    "height": 5760,
+    "role": "feature",
+    "kb": 2876,
+    "sharpness": 717,
+    "blur": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAABQAgCdASoLABAAAsBMJZQCdAYt9wLIkTRvFAAA/vTAGzNxxqX0supPiOUXMjToyFkOzC6bXCvcXSahJp1F6amb/8mpvntkpiv8AA=="
+  },
+  "/assets/rolls-royce/phantom/night.webp": {
+    "width": 3639,
+    "height": 5458,
+    "role": "feature",
+    "kb": 973,
+    "sharpness": 540,
+    "blur": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoLABAAAsBMJaQAAuWuW+xN4AD++nGfKJ8f8T199Uko/P9Gg531YJHSSv79OZZEtwDlCo8n6AAAAA=="
+  },
+  "/assets/rolls-royce/spectre/hero.webp": {
+    "width": 3840,
+    "height": 2160,
+    "role": "hero",
+    "kb": 485,
+    "sharpness": 1437,
+    "blur": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAwAgCdASoQAAkAAsBMJYgCdAYrJtpfOaBWYAD+xY+7Sc064cLPk7vPyiuwtMxo1/19r/5Ia+6UGBPB3HN7RVlUnbuNmP6WCQRhvaRMfXpDMGUqA+gAAA=="
+  },
+  "/assets/rolls-royce/spectre/wheel.webp": {
+    "width": 3840,
+    "height": 2560,
+    "role": "hero",
+    "kb": 498,
+    "sharpness": 1539,
+    "blur": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAwAgCdASoQAAsAAsBMJaQAD4ou1DOzjnzAAAD+kb9qz9JvcU4fBjlFkTzDc3g9o8X0xGt0K98Iq5n7tBFVuUvMnkoJCRWAsT5hJXWHNLe5k0M6tB+AAA=="
+  }
+}
