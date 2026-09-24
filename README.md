@@ -1,10 +1,12 @@
 # ROYCE
 
+**Live site: [rolls-roys.vercel.app](https://rolls-roys.vercel.app/)**
+
 A frontend-only cinematic site for a fictional luxury marque. Next.js 16, React 19, TypeScript, Tailwind CSS 4, GSAP ScrollTrigger, Lenis, Motion (UI only).
 
 ```bash
 npm install
-npm run dev               # http://localhost:3000
+npm run dev               # then open http://localhost:3000 (works while this is running)
 npm run build && npm start
 npm run validate:assets   # size and sharpness check for every photograph
 ```
